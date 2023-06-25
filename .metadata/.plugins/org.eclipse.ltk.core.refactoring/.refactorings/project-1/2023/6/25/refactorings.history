@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;config.properties&apos; to &apos;orangehrm_1/src/test/resources&apos;&#x0D;&#x0A;- Original project: &apos;project-1&apos;&#x0D;&#x0A;- Destination element: &apos;orangehrm_1/src/test/resources&apos;&#x0D;&#x0A;- Original element: &apos;config.properties&apos;" description="Copy file" destination="=orangehrm_1/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/" element1="src/test/resources/config.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1687107901386" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+package page_objects;
+
+import org.openqa.selenium.WebDriver;
+
+public class Loginparameters_hrm extends Basepage_hrm
+{
+	public Loginparameters_hrm(WebDriver driver) 
+	{
+		super(driver);
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+}

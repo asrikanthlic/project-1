@@ -1,0 +1,18 @@
+package testCases;
+
+import org.testng.annotations.Test;
+
+import testBase.BaseClass_hrm;
+
+public class TestCase_1 extends BaseClass_hrm
+{
+
+	@Test
+	public void login()
+	{
+		
+		
+	}
+	
+	
+}

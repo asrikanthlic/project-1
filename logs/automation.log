@@ -1,0 +1,14 @@
+09:17:23.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** stating   TC_001_AccountRegistrationTest ******  
+09:17:37.511 [main] INFO  testCases.After_login - **** stating   After_login  ******  
+09:17:39.528 [main] INFO  testCases.After_login - clicking on logging
+09:21:36.041 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** stating   TC_001_AccountRegistrationTest ******  
+09:21:49.377 [main] INFO  testCases.After_login - **** stating   After_login  ******  
+09:21:51.357 [main] INFO  testCases.After_login - clicking on logging
+09:22:21.403 [main] INFO  testCases.After_login - clicking on logging
+18:02:11.327 [main] INFO  testCases.After_login - **** stating   After_login  ******  
+18:02:13.894 [main] INFO  testCases.After_login - clicking on logging
+18:14:32.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** stating   TC_001_AccountRegistrationTest ******  
+18:21:52.534 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** stating   TC_001_AccountRegistrationTest ******  
+18:22:06.172 [main] INFO  testCases.After_login - **** stating   After_login  ******  
+18:22:06.943 [main] INFO  testCases.After_login - clicking on logging
+18:22:37.001 [main] INFO  testCases.After_login - clicking on logging

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite exp]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test exp(failed)">
+    <classes>
+      <class name="testCases.After_login">
+        <methods>
+          <include name="afterlogin"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.After_login -->
+      <class name="testCases.TC_001_AccountRegistrationTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test_account_registration"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- Test exp(failed) -->
+</suite> <!-- Failed suite [Suite exp] -->
